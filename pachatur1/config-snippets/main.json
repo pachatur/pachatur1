@@ -66,7 +66,13 @@
                 "options": {
                     "enabled": true
                 }
+            },
+            {
+            "name": "allowPut",
+            "options": {
+                "enabled": true
             }
+        }
         ],
         "options": {
             "is_secure": false
