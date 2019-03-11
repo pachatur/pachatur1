@@ -1,0 +1,27 @@
+{
+    "name": "pachatur1",
+    "propertyId": 525973,
+    "propertyName": "pachatur1",
+    "groupId": 131645,
+    "isSecure": false,
+    "latestVersionInfo": {
+        "propertyVersion": 2,
+        "updatedByUser": "pachatur",
+        "updatedDate": "2019-03-11T09:42:48Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "3646f70df6361bfa494c7d36357dc0e65484611d",
+        "productId": "prd_SPM",
+        "ruleFormat": "v2018-09-12"
+    },
+    "activeIn_STAGING_Info": {
+        "propertyVersion": 2,
+        "updatedByUser": "pachatur",
+        "updatedDate": "2019-03-11T09:42:48Z",
+        "productionStatus": "INACTIVE",
+        "stagingStatus": "ACTIVE",
+        "etag": "3646f70df6361bfa494c7d36357dc0e65484611d",
+        "productId": "prd_SPM",
+        "ruleFormat": "v2018-09-12"
+    }
+}
